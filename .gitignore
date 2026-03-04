@@ -3,3 +3,9 @@
 *.avi
 *.mp4
 *.mov
+
+# Large media files
+*.avi
+*.mp4
+*.mov
+*.mkv
