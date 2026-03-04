@@ -106,10 +106,6 @@ The following tools were used in this project:
 
 ---
 
-# Repository Structure
-
----
-
 # Code Availability
 
 The embedded control software used in this project belongs to the laboratory where the project was conducted.
