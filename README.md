@@ -107,3 +107,21 @@ The following tools were used in this project:
 ---
 
 # Repository Structure
+
+---
+
+# Code Availability
+
+The embedded control software used in this project belongs to the laboratory where the project was conducted.
+
+Therefore, **the source code cannot be publicly released in this repository**.
+
+Only mechanical design files, documentation, and demonstration materials are provided.
+
+---
+
+# Author
+
+Ruihan Wang  
+School of Electrical and Control Engineering  
+North China University of Technology
